@@ -1,6 +1,7 @@
 Sistema de gerenciamento de um mercado.
 
 Funcionalidades:
+
 1ª Adicionar produtos:
 
 2ª Remover produtos:
