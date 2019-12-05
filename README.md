@@ -20,6 +20,6 @@ Funcionalidades:
 
 9ª Listar funcionario:
 
-10ª Login:
+10ª Promover funcionario:
 
-11ª Sair do programa:
+11ª Login:
